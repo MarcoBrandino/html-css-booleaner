@@ -20,19 +20,33 @@
     color: #aaa195;
 }
 
-.margin-top-venti {
-    margin-top: 20px;
+.margin-top-trenta {
+    margin-top: 30px;
 }
 
 .background-color-yellow {
     background-color: yellow;
 }
 
-.padding-left-uno {
+.padding-left-uno-e-margin-top-trenta {
     padding-left: 1%;
     margin-top: 30px;
 }
 
 .font-size-dodici {
     font-size: 12px;
+}
+
+.intestazione-tabella {
+    background-color: #7fa6fb;
+    color: white;
+    text-align: left;
+}
+
+.background-color-grey {
+    background-color: #dfe5f2;
+}
+
+.larghezza-venticinque-per-cento-pagina {
+    width: 25%;
 }
