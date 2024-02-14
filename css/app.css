@@ -1,6 +1,7 @@
 .background-color-azzurro {
     background-color: #9cd6f4;
-    background-image: url("pattern.png");
+    background-image: url("../img/pattern.png");
+    background-size: 30%;
 }
 
 .dimensione-immagine-header-margini {
@@ -68,6 +69,6 @@
 }
 
 .centro-e-ottanta-per-cento {
-    text-align: center;
-    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
 }
